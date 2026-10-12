@@ -1,0 +1,82 @@
+[
+  {
+    "nombreProducto": "Convertidor RCA a HDMI",
+    "precio": "$25",
+    "descripcion": "Convierte señales analógicas RCA a HDMI para televisores modernos.",
+    "srcImagenPeq": "img/rca-hdmi-small.jpg",
+    "srcImagenAmplia": "img/rca-hdmi-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=abcd1234"
+  },
+  {
+    "nombreProducto": "Fire TV Stick",
+    "precio": "$40",
+    "descripcion": "Dispositivo de streaming con control remoto por voz.",
+    "srcImagenPeq": "img/firestick-small.jpg",
+    "srcImagenAmplia": "img/firestick-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=efgh5678"
+  },
+  {
+    "nombreProducto": "Cable HDMI 2.0",
+    "precio": "$10",
+    "descripcion": "Cable HDMI de alta velocidad compatible con 4K.",
+    "srcImagenPeq": "img/hdmi-small.jpg",
+    "srcImagenAmplia": "img/hdmi-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=hijk9012"
+  },
+  {
+    "nombreProducto": "Splitter HDMI",
+    "precio": "$18",
+    "descripcion": "Permite duplicar la señal HDMI en dos pantallas.",
+    "srcImagenPeq": "img/splitter-small.jpg",
+    "srcImagenAmplia": "img/splitter-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=lmno3456"
+  },
+  {
+    "nombreProducto": "Control remoto universal",
+    "precio": "$15",
+    "descripcion": "Compatible con múltiples marcas de televisores.",
+    "srcImagenPeq": "img/control-small.jpg",
+    "srcImagenAmplia": "img/control-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=pqrs7890"
+  },
+  {
+    "nombreProducto": "Soporte de pared para TV",
+    "precio": "$30",
+    "descripcion": "Soporte ajustable para televisores de hasta 55 pulgadas.",
+    "srcImagenPeq": "img/soporte-small.jpg",
+    "srcImagenAmplia": "img/soporte-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=tuvw1234"
+  },
+  {
+    "nombreProducto": "Barra de sonido",
+    "precio": "$60",
+    "descripcion": "Mejora la calidad de audio de tu televisor.",
+    "srcImagenPeq": "img/barra-small.jpg",
+    "srcImagenAmplia": "img/barra-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=xyza5678"
+  },
+  {
+    "nombreProducto": "Antena digital HD",
+    "precio": "$20",
+    "descripcion": "Recibe canales digitales en alta definición.",
+    "srcImagenPeq": "img/antena-small.jpg",
+    "srcImagenAmplia": "img/antena-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=bcde9012"
+  },
+  {
+    "nombreProducto": "Cable óptico de audio",
+    "precio": "$12",
+    "descripcion": "Transmite audio digital de alta calidad.",
+    "srcImagenPeq": "img/optico-small.jpg",
+    "srcImagenAmplia": "img/optico-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=fghi3456"
+  },
+  {
+    "nombreProducto": "Adaptador VGA a HDMI",
+    "precio": "$22",
+    "descripcion": "Convierte señal VGA a HDMI con audio incluido.",
+    "srcImagenPeq": "img/vga-hdmi-small.jpg",
+    "srcImagenAmplia": "img/vga-hdmi-large.jpg",
+    "enlaceTutorial": "https://www.youtube.com/watch?v=mnop7890"
+  }
+]

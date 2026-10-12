@@ -1,0 +1,22 @@
+body {
+  background-color: #f7ede2; /* gris claro para diferenciar */
+}
+
+.card {
+  background-color: #ffffff; /* blanco puro para resaltar */
+}
+
+.card-header {
+  background-color: #343a40; /* gris oscuro */
+  color: #fff;
+  font-weight: bold;
+}
+
+.card-body img {
+  max-height: 150px;
+  object-fit: contain;
+}
+
+.card-footer {
+  background-color: #f8f9fa;
+}
